@@ -184,3 +184,14 @@ hr{
     padding: 5%;
     color: #085e33;
 }
+
+#photo{
+  clear: both;
+  line-height: 0;
+  column-count: 3;
+  column-gap: 0px;
+}
+
+#photo img{
+  width: 100%;
+}
