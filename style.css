@@ -62,3 +62,19 @@ h2{
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
+
+#hero-outer {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+}
+
+@keyframes hero-zoom {
+   from{
+     transform: scale(1);
+   }
+   to{
+     transform: scale(1.1);
+   }
+}
+
