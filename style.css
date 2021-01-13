@@ -112,3 +112,18 @@ hr{
   margin-bottom: 60px;
 }
 
+.left-about-heading h2 {
+    text-align: center;
+}
+
+.right-about-heading {
+    width: 50%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+.right-about-heading h2 {
+    text-align: center;
+}
