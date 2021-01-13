@@ -127,3 +127,21 @@ hr{
 .right-about-heading h2 {
     text-align: center;
 }
+
+#welcome {
+    margin: 20px 10px;
+    text-align: center;
+    font-size: 200%;
+}
+
+#welcome2 {
+    margin: 15px 0;
+    text-align: center;
+    font-size: 130%;
+}
+
+#welcome-text {
+    margin: 25px 0;
+    text-align: center;
+    font-size: 100%;
+}
