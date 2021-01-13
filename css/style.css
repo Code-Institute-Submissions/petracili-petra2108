@@ -222,3 +222,19 @@ hr{
     padding: 0;
     margin-bottom: 50px;
 }
+
+ #times div {
+    width: 100%;
+    clear: both;
+    height: 1500%;
+    border-style: solid;
+    border-bottom-style: 1px;
+    border-bottom-color: #fff;
+    padding: 0;
+  }
+  
+  hr {
+    display: none;
+  }
+   
+}
