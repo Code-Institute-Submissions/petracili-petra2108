@@ -11,3 +11,11 @@ body {
     color: #fff;
     background-color: #979796;
 }
+
+h2{
+	font-family: 'Castoro';
+	text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px #fc8804cb;
+	color:#085e33;
+}
