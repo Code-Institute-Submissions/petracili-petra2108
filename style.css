@@ -195,3 +195,30 @@ hr{
 #photo img{
   width: 100%;
 }
+
+@media screen and (max-width: 1393px ) {
+  #clid-ethos {
+    width: 65%;
+    height: 1200px;
+    margin: 0 auto;
+  }
+
+#welcome {
+    color: #0d7227;
+    padding: 0px 63px 32px;
+    margin: 0px 134px;
+ }
+
+#left-about, #right-about {
+    width: 100%;
+    float: left;
+    padding: 0;
+}
+
+#center-about{
+    clear: both;
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    margin-bottom: 50px;
+}
