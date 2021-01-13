@@ -30,3 +30,21 @@ h2{
     list-style-type: none;
 	letter-spacing: 2px;
 }
+
+#logo, #menu{
+	line-height: 80px;
+}
+
+#menu li {
+	float: right;
+	margin-right: 30px;
+}
+
+#menu a {
+	text-decoration: none;
+	color:#085e33;
+}
+
+#menu a:hover {
+  border-bottom: 1px solid #085e33;
+}
