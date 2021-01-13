@@ -78,3 +78,15 @@ h2{
    }
 }
 
+#club-ethos {
+  height: 600px;
+}
+
+#left-about {
+  padding-top: 30px;
+  width: 33%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
