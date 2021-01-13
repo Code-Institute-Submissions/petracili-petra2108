@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro:ital@1&display=swap');
+
+*{
+    margin:0px;
+    padding:0px;
+    border:0px;
+}
+
+body {
+    font-family: 'Castoro', serif;
+    color: #fff;
+    background-color: #979796;
+}
