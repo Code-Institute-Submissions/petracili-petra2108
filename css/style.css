@@ -238,3 +238,96 @@ hr{
   }
    
 }
+
+@media screen and (max-width:943px){
+  #menu{
+    clear: left;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px;
+  }
+
+  
+
+  #club-eathos {
+    width: 90%;
+    height: 1200px;
+    margin: 0 auto;
+  }
+
+  .left-about-heading, .right-about-heading {
+    width: inherit;
+  }
+
+  .left-about-heading h2, .right-about-heading h2 {
+    width: 100%;
+    text-align: center;
+  }
+
+  .left-about-heading p, .right-about-heading p {
+    text-align: center;
+    padding: 0 20px 0 20px;
+  }
+
+  #photo{
+    column-count: 3;
+  }
+}
+
+@media screen and (max-width: 800px){
+  #photo{
+    column-count: 2;
+  }
+}
+
+.contact {
+  width: 60%;
+  float: left;
+  line-height: 10x;
+  clear: both;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  color: #085e33;
+}
+
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #085e33;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color:#085e33;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #085e33;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #979796;
+  padding: 10px;
+}
+
+.column {
+  text-align: center;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
