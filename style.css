@@ -19,3 +19,14 @@ h2{
     text-shadow: 2px 2px #fc8804cb;
 	color:#085e33;
 }
+
+#logo {
+    float: left;
+    font-size: 280%;
+}
+
+#menu {
+    font-size: 120%;
+    list-style-type: none;
+	letter-spacing: 2px;
+}
