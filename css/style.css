@@ -193,11 +193,13 @@ footer{
   clear: both;
   line-height: 0;
   column-count: 3;
-  column-gap: 0px;
+  column-gap: 10px;
+  column-width: 25px;
 }
 
 #photo img{
   width: 100%;
+  height: auto;
 }
 
 @media screen and (max-width: 1393px ) {
