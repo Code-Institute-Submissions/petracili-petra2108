@@ -51,3 +51,25 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
 			* Forms
 			* HTML5 and CSS3       
  * [Final Project!](https://8000-edfec628-a3ee-44df-a81f-735ddd00892b.ws-eu03.gitpod.io/)
+
+## HTML5
+
+For start i create basic structrure in Index.html file , for <title> put the name of the restaurant I do the website for "Pizza Amphora"
+
+```html
+<!doctype html>
+<html>
+	<head>
+		<title>
+			Pizza Amphora
+		</title>
+	</head>
+	<body>
+		Menu	
+	</body>
+</html>
+```
+
+
+
+
