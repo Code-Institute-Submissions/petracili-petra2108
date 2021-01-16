@@ -54,7 +54,7 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
 
 ## HTML5
 
-For start i create basic structrure in Index.html file , for <title> put the name of the restaurant I do the website for "Pizza Amphora"
+For start i create basic structrure in Index.html file , for `<title>` put the name of the restaurant I do the website for "Pizza Amphora"
 
 ```html
 <!doctype html>
@@ -70,6 +70,7 @@ For start i create basic structrure in Index.html file , for <title> put the nam
 </html>
 ```
 
-   1. At the begining of page i created <a> element for logo and <header> with 3 differetn <li> (index.html,gallery.html and contact.html). One for each subpages. Then I created 3 different <section> and <footer> element. 
-   2. The first section contains "hero-images" wich is first photo on the page, first photo what visitor see. Secudn section have few <div> element, each for every pat of page. (About Us,Menu, And special offer.)
+   1. At the begining of page i created `<a>` element for logo and `<header>` with 3 differetn `<li>` (index.html,gallery.html and contact.html). One for each subpages. Then I created 3 different `<section>` and `<footer>` element. 
+
+   2. The first section contains "hero-images" wich is first photo on the page, first photo what visitor see. Secudn section have few `<div>` element, each for every pat of page. (About Us,Menu and Special Offer.)
 
