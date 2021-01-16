@@ -70,6 +70,7 @@ For start i create basic structrure in Index.html file , for <title> put the nam
 </html>
 ```
 
-
+   1. At the begining of page i created <a> element for logo and <header> with 3 diferetn <li href> (index.html,gallery.html and contact.html). One for each subpages. 
+      Then i created 2 different <section> and <footer> element. 
 
 
