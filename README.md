@@ -156,10 +156,10 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
     - GitHub is used to store the projects code after being pushed from Git.
 1. [W3Schools:](https://www.w3schools.com/)
     - w3schools was used for halp with some element. 
-1. [CodeInstitute:] (https://courses.codeinstitute.net/program/FullstackWebDeveloper)
-    - CodeInstitute was used as a reminder of how the element is used
-1. [Computerhope:] (https://www.computerhope.com/htmcolor.htm)
-    - computerhope used for color codes and names
+1. [HTML Color Codes:](https://htmlcolorcodes.com/)
+    - HTML Color Colos used for color codes and names.
+1. Code Institute:
+    - CodeInstitute was used as a reminder of how the element is used.
     
 
 ## CSS3
