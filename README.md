@@ -122,4 +122,14 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
   `<form>` element and `<div>` element. The form element is composed of several `<label>` and `<input>` elements for creating 
   a form for which it is used to contact the restaurant owner, and in the `<div>`
   element which is composed of the content of the restaurant information (working hours, location, email and phone number).
- 
+  I also added social media links to the `<footer>` section.
+
+### Design
+
+   #### Colour Scheme
+     - As my choice for page style is an idea for industrial style, with 4 different colors.
+      Green for the headings of the subpage titles, orange for their hay, was for the color of the letters and light gray for the background color.
+
+   ####  Typography
+     - To select syila letters I used the Google Fonts page which chose the desired font there, my choice was Castoro font.
+     [Google Fonts](https://fonts.google.com/)
