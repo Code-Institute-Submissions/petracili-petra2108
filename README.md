@@ -156,3 +156,17 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
     - GitHub is used to store the projects code after being pushed from Git.
 1. [W3Schools:](https://www.w3schools.com/)
     - w3schools was used for halp with some element. 
+1. [CodeInstitute:] (https://courses.codeinstitute.net/program/FullstackWebDeveloper)
+    - CodeInstitute was used as a reminder of how the element is used
+1. [Computerhope:] (https://www.computerhope.com/htmcolor.htm)
+    - computerhope used for color codes and names
+    
+
+## CSS3
+
+* to style, the files (index.html, gallery.html and contact.html) I used one  style.css file was cut and only the layout of the page was created in it using elements for arranging the page
+
+#### Classes and IDs
+
+*  
+
