@@ -54,7 +54,7 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
 
 ## HTML5
 
-For start i create basic structrure in Index.html file , for `<title>` put the name of the restaurant I do the website for "Pizza Amphora"
+   * For start i create basic structrure in Index.html file , for `<title>` put the name of the restaurant I do the website for "Pizza Amphora".
 
 ```html
 <!doctype html>
@@ -70,7 +70,24 @@ For start i create basic structrure in Index.html file , for `<title>` put the n
 </html>
 ```
 
-   1. At the begining of page i created `<a>` element for logo and `<header>` with 3 differetn `<li>` (index.html,gallery.html and contact.html). One for each subpages. Then I created 3 different `<section>` and `<footer>` element. 
+    * At the begining of page i created `<a>` element for logo and `<header>` with 3 differetn `<li>` (index.html,gallery.html and contact.html). One for each subpages. Then I created 3 different `<section>` and `<footer>` element. 
 
-   2. The first section contains "hero-images" wich is first photo on the page, first photo what visitor see. Secudn section have few `<div>` element, each for every pat of page. (About Us,Menu and Special Offer.)
+    * The first section contains "hero-images" wich is first photo on the page. Next thing what i crete was one more section, wich one will be section About Us and text whitc will be interesting text about restornat. Next section have few `<div>` element, 
+      each for every pat of page. (About Us,Menu and Special Offer.)
+
+    * Next thing what i crete was one more section, with 6 `<div>` element. Each of that element have has a built structure with `<h2>`, `<hr>`, `<p>`, `<ul>` and `<li>` elememt , as we can see. 
+         
+        ```<div>
+                   <h2></h2>
+                   <hr>
+                   <p>
+                       <ul>
+                           <li></li>
+                           <li></li>
+                           <li></li>
+                           <li></li>
+                       </ul>
+                   </p>
+               </div>
+               ```
 
