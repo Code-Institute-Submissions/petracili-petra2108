@@ -126,16 +126,16 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
 
 ### Design
 
-   #### Colour Scheme
-    - As my choice for page style is an idea for industrial style, with 4 different colors.
+#### Colour Scheme
+-   As my choice for page style is an idea for industrial style, with 4 different colors.
       Green for the headings of the subpage titles, orange for their hay, was for the color of the letters and light gray for the background color.
 
-   ####  Typography
-    -  To select syila letters I used the Google Fonts page which chose the desired font there, my choice was Castoro font.
+####  Typography
+-   To select syila letters I used the Google Fonts page which chose the desired font there, my choice was Castoro font.
      [Google Fonts](https://fonts.google.com/)
 
-   #### Imagery
-    - I found the photos I used on google and copied the photo link and used those images to create the page . 
+#### Imagery
+-    I found the photos I used on google and copied the photo link and used those images to create the page . 
 
 ## Technologies Used
 
