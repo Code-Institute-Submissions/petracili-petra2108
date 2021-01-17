@@ -98,6 +98,7 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
 
  * Next think was one more `<section>` for Special Offer part of Web page , wagain with few more `<div>` element. Each of that `<div>` have `<h2>` and `<h2>`. 
 
+
     ```<div>
         h2></h2>
         <h3></h3>
@@ -108,7 +109,8 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
  *  Next think what i maket is `<footer>` elemeny, for social network `<link>`. 
 
  2. On the second subpage we have made content about photos with food in a restaurant. was created by copying the skeleton from index.html. files, 
-   and then created a new section with the <ul> element and photos for the page, in the added footer I also put links for social networks.
+   and then created a new section with the `<ul>` element and photos for the page, in the added footer I also put links for social networks.
+
 
    ```<section id="photo">
             <img src="...">
@@ -118,4 +120,9 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
             ...
     </section>```
 
+
+3. in the third sub-station called "contact.html" the skeleton from the "Index.html" file was copied. Then I created one section with a
+ `<form>` element and `<div>` element. The form element is composed of several `<label>` and `<input>` elements for creating 
+ a form for which it is used to contact the restaurant owner, and in the `<div>`
+element which is composed of the content of the restaurant information (working hours, location, email and phone number).
  
