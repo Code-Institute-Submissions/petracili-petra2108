@@ -88,6 +88,13 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
                            <li></li>
                        </ul>
                    </p>
-               </div>
-               ```
+               </div>```
 
+   * Next think was one more `<section>` for Special Offer part of Web page , wagain with few more `<div>` element. Each of that `<div>` have `<h2>` and `<h2>`. 
+   
+       ```<div>
+                <h2></h2>
+                <h3></h3>
+                <h3></h3>
+                <h3></h3>
+            </div>```
