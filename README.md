@@ -52,9 +52,15 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
 			* HTML5 and CSS3       
  * [Final Project!](https://8000-edfec628-a3ee-44df-a81f-735ddd00892b.ws-eu03.gitpod.io/)
 
+## Subpages
+
+  a. I was create 3 subpages Home, Gallery and Contact. Fisrt one was home pages with 3 separate section, About Us, Menu of restaurant and Social Network links. 
+  b. Secund subpages was Gallery with content listing photos of the food provided by the restaurant. 
+  c. The third page is composed of information about the restaurant and the restaurant contact form.
+
 ## HTML5
 
-   * For start i create basic structrure in Index.html file , for `<title>` put the name of the restaurant I do the website for "Pizza Amphora".
+   1. For start i create basic structrure in Index.html file , for `<title>` put the name of the restaurant I do the website for "Pizza Amphora".
 
 ```html
 <!doctype html>
@@ -90,13 +96,26 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
                 </p>
      </div>```
 
-   * Next think was one more `<section>` for Special Offer part of Web page , wagain with few more `<div>` element. Each of that `<div>` have `<h2>` and `<h2>`. 
+ * Next think was one more `<section>` for Special Offer part of Web page , wagain with few more `<div>` element. Each of that `<div>` have `<h2>` and `<h2>`. 
 
-  ```<div>
+    ```<div>
         h2></h2>
         <h3></h3>
         <h3></h3>
         <h3></h3>
      </div>```
 
-  *  Next think what i maket is `<footer>` elemeny, for social network `<link>`. 
+ *  Next think what i maket is `<footer>` elemeny, for social network `<link>`. 
+
+ 2. On the second subpage we have made content about photos with food in a restaurant. was created by copying the skeleton from index.html. files, 
+   and then created a new section with the <ul> element and photos for the page, in the added footer I also put links for social networks.
+
+   ```<section id="photo">
+            <img src="...">
+            <img src="...">
+            <img src="...">
+            <img src="...">
+            ...
+    </section>```
+
+ 
