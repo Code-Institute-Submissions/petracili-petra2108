@@ -77,24 +77,26 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
 
    * Next thing what i crete was one more section, with 6 `<div>` element. Each of that element have has a built structure with `<h2>`, `<hr>`, `<p>`, `<ul>` and `<li>` elememt , as we can see. 
          
-        ```<div>
-                   <h2></h2>
-                   <hr>
-                   <p>
-                       <ul>
-                           <li></li>
-                           <li></li>
-                           <li></li>
-                           <li></li>
-                       </ul>
-                   </p>
-               </div>```
+    ```<div>
+         <h2></h2>
+             <hr>
+                <p>
+                     <ul>
+                       <li></li>
+                       <li></li>
+                       <li></li>
+                       <li></li>
+                    </ul>
+                </p>
+     </div>```
 
    * Next think was one more `<section>` for Special Offer part of Web page , wagain with few more `<div>` element. Each of that `<div>` have `<h2>` and `<h2>`. 
-   
-       ```<div>
-                <h2></h2>
-                <h3></h3>
-                <h3></h3>
-                <h3></h3>
-            </div>```
+
+  ```<div>
+        h2></h2>
+        <h3></h3>
+        <h3></h3>
+        <h3></h3>
+     </div>```
+
+  *  Next think what i maket is `<footer>` elemeny, for social network `<link>`. 
