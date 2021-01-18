@@ -146,11 +146,23 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
 			</div>```
 
 
- 3. in the third subpages called "contact.html" the skeleton from the "Index.html" file was copied. Then I created one section with a
-  `<form>` element and `<div>` element. The form element is composed of several `<label>` and `<input>` elements for creating 
-  a form for which it is used to contact the restaurant owner, and in the `<div>`
-  element which is composed of the content of the restaurant information (working hours, location, email and phone number).
-  I also added social media links to the `<footer>` section.
+ 3. The next content is Gallery which was created using bootstrap link for transferring photos, I used the same link for photos from google browser that I copied to the position "img".
+    I was used more `<div>` element plus `<img>` source.
+
+    ```<div class="container-fluid gallery">
+		<p class="h2 text-center" id="gallerypage">Gallery</p>
+		<div class="row">
+			<div class="col-1 col-lg-2"> </div>
+			<div class="col-10 col-lg-8">
+			<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+				  <div class="carousel-inner">
+					<div class="carousel-item active">
+					  <img src="..." class="d-block w-100" alt="...">
+					</div>
+					<div class="carousel-item">
+					  <img src="..." class="d-block w-100" alt="...">
+					</div>
+                    ...```
 
 ### Design
 
