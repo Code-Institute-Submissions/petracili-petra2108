@@ -120,6 +120,30 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
 
  3. I created a part of the page that serves for the menu of the restaurant offering food. In that section there are 2 different parts,
     one is a food offer and the other is a part with special offers and prices, both contents are created using bootstrap. I copied one continent several times and changed the text and photo to get the desired look.
+    As we can see, a `<div>` element was used in which a `<h2>` element was added and a `<ul>` element with more `<li>` phrases, in which the text on food supply was included, in the same 
+    part we have one `<img>` i with one i put link of photo which i want. 
+
+    ```<div class="container-fluid menu">
+		<p class="h2 text-center" id="menupage">Regular Menu</p>
+		<div class="row" >
+			
+			<div class="col-md-4">
+			  <div class="card mb-4 shadow-sm">
+			
+				<img src="https://pennysrecipes.com/wp-content/uploads/2014/11/vegetable-soup.jpg" style="height:225px" />
+				
+				
+				<div class="card-body">
+				  <h5 class="card-title text-center">Starter</h5>
+				  <ul class="list-group">
+					   <li class="list-group-item">Seasonal vegetable soup 5€ </li>
+					   <li class="list-group-item">Bruschetta with marinated vegetables 5.50€ </li>
+					   <li class="list-group-item">Bruschette with smoked fish 5.70€ </li>
+					   <li class="list-group-item">Crispy prawns in sauce 6€ </li>
+				   </ul>
+				</div>
+			  </div>
+			</div>```
 
 
  3. in the third subpages called "contact.html" the skeleton from the "Index.html" file was copied. Then I created one section with a
