@@ -146,7 +146,7 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
 			</div>```
 
 
- 3. The next content is Gallery which was created using bootstrap link for transferring photos, I used the same link for photos from google browser that I copied to the position "img".
+ 4. The next content is Gallery which was created using bootstrap link for transferring photos, I used the same link for photos from google browser that I copied to the position "img".
     I was used more `<div>` element plus `<img>` source.
 
     ```<div class="container-fluid gallery">
@@ -227,7 +227,48 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
 
 ## CSS3
 
-* to style, the files (index.html, gallery.html and contact.html) I used one  style.css file was cut and only the layout of the page was created in it using elements for arranging the page
+* to style, the files (index.html) I used one Bootstrap CSS Style file was cut and only the layout of the page was created in it using elements for arranging the page.
+
+   ``` <style>
+			
+			a.navbar-brand{
+				font-size: xxx-large;
+				
+			}
+			
+			nav.navbar {
+				background-color: darkorange !important;
+			}
+			
+			img.heroimage{
+				width:100%;
+				height: auto;
+			}
+			
+			.aboutus{
+				background-color: darkorange !important;
+				color: black;
+				
+            }
+            
+            .aboutus div.container, .menu, .gallery, .contactpage, {
+				background-color: darkorange !important;
+				color: black;
+				
+			}
+			
+			.gallery img {
+				height: 550px;
+				width:100%;
+				
+            }
+            
+            .menubutton {
+                background-color: darkorange !important;
+                color: black;
+            }
+            </style>```
+		
 
 #### Classes and IDs
 
