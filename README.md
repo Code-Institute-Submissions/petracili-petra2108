@@ -102,18 +102,25 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
 		</div>
      </div>  ```
 
- *  Next think what i maket is `<footer>` elemeny, for social network `<link>`. 
+ 2.  Next think what which was creating is one `<section>` crated for Abouth Us part of webpage. Where the first visitor can learn more about place and concept of the restaurant. As well creating with bootstrap.
 
- 2. On the second subpage we have made content about photos with food in a restaurant. was created by copying the skeleton from index.html. files, 
-   and then created a new section with the `<ul>` element and photos for the page, in the added footer I also put links for social networks.
-     
-    ```<div>
-         <img src="...">
-         <img src="...">
-         <img src="...">
-         <img src="...">
-         ...
-     </div>```
+    ```<section class="jumbotron text-center aboutus">
+		<div class="container">
+		  <h1>About us</h1>
+		  <p class="lead"></p>
+		  <p class="lead"></p>
+		  <p id="menubutton">
+			<a href="#menupage" class="btn btn-primary my-2"></a>
+			<a href="#gallerypage" class="btn btn-secondary my-2"></a>
+			<a href="#contactpage" class="btn btn-secondary my-2"></a>
+		  </p>
+		</div>
+  </section>```
+
+
+ 3. I created a part of the page that serves for the menu of the restaurant offering food. In that section there are 2 different parts,
+    one is a food offer and the other is a part with special offers and prices, both contents are created using bootstrap. I copied one continent several times and changed the text and photo to get the desired look.
+
 
  3. in the third subpages called "contact.html" the skeleton from the "Index.html" file was copied. Then I created one section with a
   `<form>` element and `<div>` element. The form element is composed of several `<label>` and `<input>` elements for creating 
