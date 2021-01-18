@@ -175,11 +175,23 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
                    <input class="btn btn-primary" type="submit" value="Submit">
 
             </form>```
+
+ 6. in the "footer" content and these icons have been added from Font Avesome, each link leads to the homepage of the social network.
+   
+   ```<footer>
+			<ul class="social-networks socialnetworks">
+               <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-square"></i></a></li>
+               <li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
+               <li><a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a></li>
+               <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
+            </ul>
+        </footer>```
+
 ### Design
 
 #### Colour Scheme
 -   As my choice for page style is an idea for industrial style, with 4 different colors.
-      Green for the headings of the subpage titles, orange for their hay, was for the color of the letters and light gray for the background color.
+      Dark orange on the background, white for menu frames, black letters and green shades for a slightly more interesting look.
 
 ####  Typography
 -   To select syila letters I used the Google Fonts page which chose the desired font there, my choice was Castoro font.
@@ -219,5 +231,6 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
 
 #### Classes and IDs
 
-*  
-
+*  I added classes and id to each `<div>` where needed to make visual changes later in the style section, so 
+  I have, black for the text. to make it more readable on an orange background that looks 
+   vibrant and alluring and in keeping with the whole concept of the restaurant. Then we have a green submit button and social network icons to give importance to the section and to make it easier to see.
