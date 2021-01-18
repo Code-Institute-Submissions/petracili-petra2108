@@ -176,8 +176,18 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
 
             </form>```
 
- 6. in the "footer" content and these icons have been added from Font Avesome, each link leads to the homepage of the social network.
+ 6. In the "footer" content and these icons have been added from Font Avesome, each link leads to the homepage of the social network.
    
+     ```<footer>
+			<ul class="social-networks socialnetworks">
+               <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-square"></i></a></li>
+               <li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
+               <li><a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a></li>
+               <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
+            </ul>
+         </footer>
+         ...
+         ```
 
 ### Design
 
