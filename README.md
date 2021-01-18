@@ -275,3 +275,12 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
 *  I added classes and id to each `<div>` where needed to make visual changes later in the style section, so 
   I have, black for the text. to make it more readable on an orange background that looks 
    vibrant and alluring and in keeping with the whole concept of the restaurant. Then we have a green submit button and social network icons to give importance to the section and to make it easier to see.
+
+
+### Acknowledgements
+
+* My Mentor for continuous helpful feedback.
+
+### End 
+
+-  I learned a lot working on this project, things I wouldn't have had the opportunity to do in my normal life. as this is my first station I have ever made I am pleased with its work and appearance. I would like to thank the entire Code Institue for their help and my mentor who helped me to better understand the work of a developer. I look forward to the next project and the new things that follow.
