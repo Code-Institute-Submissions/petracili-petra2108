@@ -179,7 +179,6 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
  6. in the "footer" content and these icons have been added from Font Avesome, each link leads to the homepage of the social network.
    
 
-
 ### Design
 
 #### Colour Scheme
