@@ -164,6 +164,17 @@ The page will contain 3 subpages: Menu, Gallery and Contact.
 					</div>
                     ...```
 
+5. The contact is created in a "form" element with several windows that the user can use to send a message and one button is added.
+   
+        ```<form >
+				  <div class="form-group">
+					<label for="exampleFormControlInput1">Full Name</label>
+					<input type="email" class="form-control" id="exampleFormControlInput1" placeholder="...">
+                  </div>
+
+                   <input class="btn btn-primary" type="submit" value="Submit">
+
+            </form>```
 ### Design
 
 #### Colour Scheme
