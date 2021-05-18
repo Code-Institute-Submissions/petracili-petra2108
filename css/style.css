@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Castoro:ital@1&display=swap');
 
+body{
+    background-color: darkorange !important;
+}
+
 a.navbar-brand{
     font-size: xxx-large;
     
@@ -10,8 +14,8 @@ nav.navbar {
 }
 
 img.heroimage{
-    width:100%;
-    height: auto;
+    width: 100%;
+    height: 80%;
 }
 
 .aboutus{
