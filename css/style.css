@@ -1,1 +1,38 @@
 @import url('https://fonts.googleapis.com/css2?family=Castoro:ital@1&display=swap');
+
+a.navbar-brand{
+    font-size: xxx-large;
+    
+}
+
+nav.navbar {
+    background-color: darkorange !important;
+}
+
+img.heroimage{
+    width:100%;
+    height: auto;
+}
+
+.aboutus{
+    background-color: darkorange !important;
+    color: black;
+    
+}
+
+.aboutus div.container, .menu, .gallery, .contactpage {
+    background-color: darkorange !important;
+    color: black;
+    
+}
+
+.gallery img {
+    height: 550px;
+    width:100%;
+    
+}
+
+.menubutton {
+    background-color: darkorange !important;
+    color: black;
+}
