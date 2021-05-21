@@ -6,6 +6,7 @@ body{
 
 a.navbar-brand{
     font-size: xxx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', cursive;
     
 }
 
@@ -40,5 +41,3 @@ img.heroimage{
     background-color: darkorange !important;
     color: black;
 }
-
-.list-group-item 
