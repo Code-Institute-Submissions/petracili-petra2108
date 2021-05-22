@@ -4,10 +4,13 @@ body{
     background-color: darkorange !important;
 }
 
+.title-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 a.navbar-brand{
     font-size: xxx-large;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', cursive;
-    
+
 }
 
 nav.navbar {
