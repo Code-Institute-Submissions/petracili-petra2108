@@ -172,8 +172,8 @@ In today’s idea is to create a website for Amphora Pizzerias. In today’s sit
             </style>```
 		
 
-### Credits
 
+### Credits
 ***Antonio Rodrigez*** - My mentor at Code Institute - for general feedback and guidance, special guidance on Google Maps
 
 ***Matt Rudge*** - Lecturer/Developer at Code Institute - for the [template](https://github.com/Code-Institute-Org/gitpod-full-template) used with GitPod IDE for developing this project, and the lecture on Email JS
