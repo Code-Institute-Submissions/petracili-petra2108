@@ -1,13 +1,14 @@
-<h1 align="center">Amphora MS1</h1>
+<h1 align="center">Pizzeria Amphora</h1>
 
 Code Institute Diploma in Full-Stack Software Development Project 1
 
 ### View the live project: https://github.com/petracili/petra2108.git/
 
-This is my first Web Page create in GitPod and push in GitHub, my idea was to create Web page for Italian Restorant.
-The page will contain 3 subpages: Menu, Gallery and Contact. 
+### <u>Scope of the project</u>
 
-<h2 align="center"><img src="https://8000-edfec628-a3ee-44df-a81f-735ddd00892b.ws-eu03.gitpod.io/"></h2>
+In today’s idea is to create a website for Amphora Pizzerias. In today’s situation with the coronavirus where most restaurants are closed, good promotion is key to keeping the restaurant in pole business and thus have preserved jobs. So this Italian restaurant needs a website where you will see the complete restaurant menu with an order form.
+
+-----------------
 
    ### Who
 
