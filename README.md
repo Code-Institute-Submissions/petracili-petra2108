@@ -127,52 +127,6 @@ In today’s idea is to create a website for Amphora Pizzerias. In today’s sit
 
 -------
 
-## CSS3
-
-* to style, the files (index.html) I used one Bootstrap CSS Style file was cut and only the layout of the page was created in it using elements for arranging the page.
-
-   ``` <style>
-			
-			a.navbar-brand{
-				font-size: xxx-large;
-				
-			}
-			
-			nav.navbar {
-				background-color: darkorange !important;
-			}
-			
-			img.heroimage{
-				width:100%;
-				height: auto;
-			}
-			
-			.aboutus{
-				background-color: darkorange !important;
-				color: black;
-				
-            }
-            
-            .aboutus div.container, .menu, .gallery, .contactpage, {
-				background-color: darkorange !important;
-				color: black;
-				
-			}
-			
-			.gallery img {
-				height: 550px;
-				width:100%;
-				
-            }
-            
-            .menubutton {
-                background-color: darkorange !important;
-                color: black;
-            }
-            </style>```
-		
-
-
 ### Credits
 ***Antonio Rodrigez*** - My mentor at Code Institute - for general feedback and guidance, special guidance on Google Maps
 
