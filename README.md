@@ -82,15 +82,6 @@ In today’s idea is to create a website for Amphora Pizzerias. In today’s sit
 - The customers to read what was published in the press about EMM. (like customer testimonials)
 - Visitors to easily navigate on the site not coming across any broken links or buttons.
 
--------
-
-###### My thoughts as a developer:
-
-"As a beginner for my first project, I chose something simpler but on the other hand not attractive enough for users who want to order something."
-
- 
-### Design
-
 #### Colour Scheme
 -   As my choice for page style is an idea for industrial style, with 4 different colors.
       Dark orange on the background, white for menu frames, black letters and green shades for a slightly more interesting look.
@@ -101,6 +92,13 @@ In today’s idea is to create a website for Amphora Pizzerias. In today’s sit
 
 #### Imagery
 -    I found the photos I used on google and copied the photo link and used those images to create the page . 
+
+-------
+
+###### My thoughts as a developer:
+
+"As a beginner for my first project, I chose something simpler but on the other hand not attractive enough for users who want to order something."
+
 
 ## Technologies Used
 
