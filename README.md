@@ -125,31 +125,7 @@ In today’s idea is to create a website for Amphora Pizzerias. In today’s sit
 
 "As a beginner for my first project, I chose something simpler but on the other hand not attractive enough for users who want to order something."
 
-
-## Technologies Used
-
-### Languages Used
-
--   [HTML5](https://en.wikipedia.org/wiki/HTML5)
--   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-
-### Frameworks, Libraries & Programs Used
-
-1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-    - Bootstrap was used to assist with the responsiveness and styling of the website.
-1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
-1. [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [GitHub:](https://github.com/)
-    - GitHub is used to store the projects code after being pushed from Git.
-1. [W3Schools:](https://www.w3schools.com/)
-    - w3schools was used for halp with some element. 
-1. [HTML Color Codes:](https://htmlcolorcodes.com/)
-    - HTML Color Colos used for color codes and names.
-1. Code Institute:
-    - CodeInstitute was used as a reminder of how the element is used.
-    
+-------
 
 ## CSS3
 
@@ -196,16 +172,21 @@ In today’s idea is to create a website for Amphora Pizzerias. In today’s sit
             </style>```
 		
 
-#### Classes and IDs
+### Credits
 
-*  I added classes and id to each `<div>` where needed to make visual changes later in the style section, so 
-  I have, black for the text. to make it more readable on an orange background that looks 
-   vibrant and alluring and in keeping with the whole concept of the restaurant. Then we have a green submit button and social network icons to give importance to the section and to make it easier to see.
+***Antonio Rodrigez*** - My mentor at Code Institute - for general feedback and guidance, special guidance on Google Maps
 
+***Matt Rudge*** - Lecturer/Developer at Code Institute - for the [template](https://github.com/Code-Institute-Org/gitpod-full-template) used with GitPod IDE for developing this project, and the lecture on Email JS
 
-### Acknowledgements
+***Anna Greaves*** - Developer at Code Institute - for the ["How to README.md"](https://www.youtube.com/watch?v=7BteidgLAyM&feature=youtu.be&ab_channel=CodeInstitute) webinar
 
-* My Mentor for continuous helpful feedback.
+***Bootstrap*** - for providing [documentation](https://getbootstrap.com/docs/4.5/getting-started/introduction/) on the framework
+
+***W3schools*** - for various code segments, examples and [explanations](https://www.w3schools.com/) used throughout the project
+
+***Font Awesome*** - CDN for [icons](https://fontawesome.com/) used in the project
+
+***Google Fonts*** - CDN for [fonts](https://fonts.google.com/) used in the project
 
 ### End 
 
