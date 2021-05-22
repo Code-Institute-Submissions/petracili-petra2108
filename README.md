@@ -57,33 +57,25 @@ In today’s idea is to create a website for Amphora Pizzerias. In today’s sit
 
 ## Subpages
 
-  a. I was create 3 subpages Home, Gallery and Contact. Fisrt one was home pages with 3 separate section, About Us, Menu of restaurant and Social Network links. 
-  b. Secund subpages was Gallery with content listing photos of the food provided by the restaurant. 
-  c. The third page is composed of information about the restaurant and the restaurant contact form.
+  I was create 3 subpages Home, Gallery and Contact. First one was home pages with 3 separate section, About Us, Menu of restaurant and Social Network links. 
+  Secund subpages was Gallery with content listing photos of the food provided by the restaurant. 
+  The third page is composed of information about the restaurant and the restaurant contact form.
 
-## HTML5
+### UX Design / Presentation
 
-   1. For start i create basic structrure in Index.html file , for `<title>` put the name of the restaurant I do the website for "Pizza Amphora".
+#### User Stories
 
-```html
-<!doctype html>
-<html>
-	<head>
-		<title>
-			Pizza Amphora
-		</title>
-	</head>
-	<body>
-		Menu	
-	</body>
-</html>
-```
+###### As a visitor to the Pizzeria Amphora site I expect:
 
-   *  At the begining I added a bootstrap link so I could use the elements and links in the bootstrap .
+- To be presented with an appealing page using appropriate quality and format imagery.
+- To be presented a responsive website that looks good on multiple form factors and screen sizes.
+- To be able to find the information I am looking for.
+- To be able to easily navigate on the page.
+- To be able to execute the expected functions on all the included links and buttons.
+- To be able to get in touch with the service provider.
 
-   * The first section created was the logo of the restaurant itself, I opted for a simpler variant to make it look more sophisticated. 
 
-   * The the next thing that was created is  one more  `<div>` which is used to create a navigation  in the `<div>` we have one `<ul>` and 3 differet `<li>` which will be one for each subpage , as well will change depending on the screen size.
+ created is  one more  `<div>` which is used to create a navigation  in the `<div>` we have one `<ul>` and 3 differet `<li>` which will be one for each subpage , as well will change depending on the screen size.
          
     ```<div>
          <h2></h2>
