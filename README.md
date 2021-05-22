@@ -55,6 +55,8 @@ In today’s idea is to create a website for Amphora Pizzerias. In today’s sit
 			* HTML5 and CSS3       
  * [Final Project!](https://8000-edfec628-a3ee-44df-a81f-735ddd00892b.ws-eu03.gitpod.io/)
 
+ ---------------
+
 ## Subpages
 
   I was create 3 subpages Home, Gallery and Contact. First one was home pages with 3 separate section, About Us, Menu of restaurant and Social Network links. 
@@ -74,116 +76,19 @@ In today’s idea is to create a website for Amphora Pizzerias. In today’s sit
 - To be able to execute the expected functions on all the included links and buttons.
 - To be able to get in touch with the service provider.
 
+###### As the operator of the Pizzeria Amphora site I expect:
+  
+- To provide basic information about EMM and it's services.
+- The customers to read what was published in the press about EMM. (like customer testimonials)
+- Visitors to easily navigate on the site not coming across any broken links or buttons.
 
- created is  one more  `<div>` which is used to create a navigation  in the `<div>` we have one `<ul>` and 3 differet `<li>` which will be one for each subpage , as well will change depending on the screen size.
-         
-    ```<div>
-         <h2></h2>
-             <hr>
-                <p>
-                     <ul>
-                       <li></li>
-                       <li></li>
-                       <li></li>
-                    </ul>
-                </p>
-     </div>```
+-------
 
- * Next thing will be "hero-image" create with 3 `<div>` element and helping with class "row" and one `<img>` element bin which one I was put link form picture. 
+###### My thoughts as a developer:
 
-    ```<<div class="container-fluid">
-		<div class="row">
-			<img class="heroimage" src="https://www.slo-foto.net/modules/Galerija/data/media/10/2166659148.jpg" />
-		</div>
-     </div>  ```
+"As a beginner for my first project, I chose something simpler but on the other hand not attractive enough for users who want to order something."
 
- 2.  Next think what which was creating is one `<section>` crated for Abouth Us part of webpage. Where the first visitor can learn more about place and concept of the restaurant. As well creating with bootstrap.
-
-    ```<section class="jumbotron text-center aboutus">
-		<div class="container">
-		  <h1>About us</h1>
-		  <p class="lead"></p>
-		  <p class="lead"></p>
-		  <p id="menubutton">
-			<a href="#menupage" class="btn btn-primary my-2"></a>
-			<a href="#gallerypage" class="btn btn-secondary my-2"></a>
-			<a href="#contactpage" class="btn btn-secondary my-2"></a>
-		  </p>
-		</div>
-  </section>```
-
-
- 3. I created a part of the page that serves for the menu of the restaurant offering food. In that section there are 2 different parts,
-    one is a food offer and the other is a part with special offers and prices, both contents are created using bootstrap. I copied one continent several times and changed the text and photo to get the desired look.
-    As we can see, a `<div>` element was used in which a `<h2>` element was added and a `<ul>` element with more `<li>` phrases, in which the text on food supply was included, in the same 
-    part we have one `<img>` i with one i put link of photo which i want. 
-
-    ```<div class="container-fluid menu">
-		<p class="h2 text-center" id="menupage">Regular Menu</p>
-		<div class="row" >
-			
-			<div class="col-md-4">
-			  <div class="card mb-4 shadow-sm">
-			
-				<img src="https://pennysrecipes.com/wp-content/uploads/2014/11/vegetable-soup.jpg" style="height:225px" />
-				
-				
-				<div class="card-body">
-				  <h5 class="card-title text-center">Starter</h5>
-				  <ul class="list-group">
-					   <li class="list-group-item">Seasonal vegetable soup 5€ </li>
-					   <li class="list-group-item">Bruschetta with marinated vegetables 5.50€ </li>
-					   <li class="list-group-item">Bruschette with smoked fish 5.70€ </li>
-					   <li class="list-group-item">Crispy prawns in sauce 6€ </li>
-				   </ul>
-				</div>
-			  </div>
-			</div>```
-
-
- 4. The next content is Gallery which was created using bootstrap link for transferring photos, I used the same link for photos from google browser that I copied to the position "img".
-    I was used more `<div>` element plus `<img>` source.
-
-    ```<div class="container-fluid gallery">
-		<p class="h2 text-center" id="gallerypage">Gallery</p>
-		<div class="row">
-			<div class="col-1 col-lg-2"> </div>
-			<div class="col-10 col-lg-8">
-			<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-				  <div class="carousel-inner">
-					<div class="carousel-item active">
-					  <img src="..." class="d-block w-100" alt="...">
-					</div>
-					<div class="carousel-item">
-					  <img src="..." class="d-block w-100" alt="...">
-					</div>
-                    ...```
-
-5. The contact is created in a "form" element with several windows that the user can use to send a message and one button is added.
-   
-        ```<form >
-				  <div class="form-group">
-					<label for="exampleFormControlInput1">Full Name</label>
-					<input type="email" class="form-control" id="exampleFormControlInput1" placeholder="...">
-                  </div>
-
-                   <input class="btn btn-primary" type="submit" value="Submit">
-
-            </form>```
-
- 6. In the "footer" content and these icons have been added from Font Avesome, each link leads to the homepage of the social network.
-   
-     ```<footer>
-			<ul class="social-networks socialnetworks">
-               <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-square"></i></a></li>
-               <li><a href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
-               <li><a href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube"></i></a></li>
-               <li><a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
-            </ul>
-         </footer>
-         ...
-         ```
-
+ 
 ### Design
 
 #### Colour Scheme
