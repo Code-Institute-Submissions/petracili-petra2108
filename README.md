@@ -103,7 +103,7 @@ In today’s idea is to create a website for Amphora Pizzerias. In today’s sit
 
 <img src="images.README/Amphora Home.PNG" />
 
-> For me as begginer idea for first web page and first subpage which one is Home page for pizzeria Amphora, idea was put the Title on the top and then three menus "Menu, Gallery and Contact". After notice to guests and then pig picture.
+> For me as a beginner idea for the first web page and the first subpage which is the Home page for pizzeria Amphora, the idea has put the Title on the top and then three menus "Menu, Gallery and Contact". After notice to guests and then pig picture.
 
 ## Technologies Used
 
