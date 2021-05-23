@@ -95,7 +95,15 @@ In today’s idea is to create a website for Amphora Pizzerias. In today’s sit
 #### Imagery
 -    I found the photos I used on google and copied the photo link and used those images to create the page . 
 
--------
+----------------------
+
+#### **Wireframing** 
+
+###### Home Page 
+
+<img src="images.README/Amphora Home.PNG" />
+
+> For me as begginer idea for first web page and first subpage which one is Home page for pizzeria Amphora, idea was put the Title on the top and then three menus "Menu, Gallery and Contact". After notice to guests and then pig picture.
 
 ## Technologies Used
 
@@ -121,7 +129,7 @@ In today’s idea is to create a website for Amphora Pizzerias. In today’s sit
 1. Code Institute:
     - CodeInstitute was used as a reminder of how the element is used.  
 
----------
+-------------------
 
 ###### My thoughts as a developer:
 
