@@ -105,6 +105,22 @@ In today’s idea is to create a website for Amphora Pizzerias. In today’s sit
 
 > For me as a beginner idea for the first web page and the first subpage which is the Home page for pizzeria Amphora, the idea has put the Title on the top and then three menus "Menu, Gallery and Contact". After notice to guests and then pig picture.
 
+###### Menu Page  
+
+<img src="images.README/Amphora Menu.PNG" />
+
+> On the menu page, ###### Classes Page 
+
+<img src="assets/images.readme/classespage.PNG" />
+
+> On the classes page, the customer can see a few open windows with picture and tekst bellow.
+
+###### Gallery and Contact Page 
+
+<img src="images.README/Amphora Gallery.PNG" />
+
+>  We can see three photos that can be moved left or right. And below that the order form. Icons and links for social networks are placed in the lower-left corner. 
+
 ## Technologies Used
 
 ### Languages Used
