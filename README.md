@@ -2,6 +2,8 @@
 
 Code Institute Diploma in Full-Stack Software Development Project 1
 
+<img src="images.README/amfora.PNG"/>
+
 ### View the live project: https://github.com/petracili/petra2108.git/
 
 ### <u>Scope of the project</u>
